@@ -36,7 +36,7 @@ fi
 
 if [ "$1" = "$FDEVICE" -o "$FOX_BUILD_DEVICE" = "$FDEVICE" ]; then
         #Language
-   	export TW_DEFAULT_LANGUAGE="en"
+   	export TW_DEFAULT_LANGUAGE="es"
 
    	#Building
 	export LC_ALL="C"
